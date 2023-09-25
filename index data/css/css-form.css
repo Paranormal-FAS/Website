@@ -1,0 +1,25 @@
+.class-form-main {
+    width: auto; 
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.class-form {
+    margin: 60px;
+    padding: 30px;
+    height: 300px;
+    width: 400px;
+    border-style: ridge;
+    align-self: center;
+}
+
+.class-form-window {
+    text-align: center;
+    flex: 1;
+}
+
+#id-label-an {
+    text-align: center;
+    font-size: large;
+}
