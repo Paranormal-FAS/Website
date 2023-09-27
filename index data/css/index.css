@@ -188,4 +188,7 @@
     width: 100%;
     height: 60px;
 }
-  
+
+.class-footer-data :hover{
+  color:#00970d;
+}
